@@ -1,6 +1,8 @@
-﻿using System;
+﻿using ZetArtSolution.SoftwareDevelop.Domain;
+using ZetArtSolution.SoftwareDevelop.Persistence;
+using System;
 
-namespace SoftwareDevelopConsole
+namespace ZetArtSolution.SoftwareDevelop.SoftwareDevelopConsole
 {
     class Program
     {

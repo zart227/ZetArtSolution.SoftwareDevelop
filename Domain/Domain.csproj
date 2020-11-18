@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>ZetArtSolution.SoftwareDevelop.Domain</AssemblyName>
+    <RootNamespace>ZetArtSolution.SoftwareDevelop.Domain</RootNamespace>
+  </PropertyGroup>
+
+</Project>
